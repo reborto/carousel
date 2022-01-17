@@ -1,0 +1,7 @@
+.bgCards {
+    min-width: 340px;
+    height: 300px;
+    border-radius: 20px;
+/* border: 2px solid red; */
+    background-image: url(https://www.tiscali.it/export/sites/tecnologia/.galleries/16/12-siti-per-vendere-foto.jpg);
+}
